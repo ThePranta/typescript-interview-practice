@@ -1,1 +1,0 @@
-# typescript-interview-practice
